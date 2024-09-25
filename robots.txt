@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pancakes175.github.io/ClimateFreund/sitemap.xml
+Sitemap: https://pancakes175.github.io/Test//sitemap.xml
