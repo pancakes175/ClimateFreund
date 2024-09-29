@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer in climate science @ [Uni Melb] (https://findanexpert.unimelb.edu.au/profile/722384-mandy-freund)
+subtitle: Lecturer in climate science [Uni Melb] (https://findanexpert.unimelb.edu.au/profile/722384-mandy-freund)
 
 profile:
   align: right
