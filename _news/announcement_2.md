@@ -15,7 +15,8 @@ So basically we assessed how likely it is to develop an ENSO event given the pre
 ---
 
 
-#### Press release
+#### <a href="https://www.unimelb.edu.au/newsroom/news/2024/september/more-accurate-and-earlier-el-nino-southern-oscillation-forecasts-developed-by-researchers">Press release</a>
+
 
 Australian climatologists closely monitor atmospheric and oceanic conditions to assess the risk of El Niño Southern Oscillation (ENSO) events occurring, which can lead to devastating natural disasters, however these predictions have become somewhat delayed in recent years.
 
