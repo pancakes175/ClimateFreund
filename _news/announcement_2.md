@@ -8,7 +8,7 @@ related_posts: true
 
 New paper published in <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ad78db">Envirnomental Research Letter</a> today. We looked at ENSO event transitions for different types of El Niño and La Niña events from one year to the next. 
 
-So basically we assessed how likely it is to develop an ENSO event given the previous year conditions. 
+So basically we assessed how likely it is to develop an ENSO event given the previous year conditions. We used a couple of long instrumental datasets going back ~150 years and climate model output from CMIP5 and CMIP6 to compare against.  
 
 
 
