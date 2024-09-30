@@ -30,16 +30,16 @@ By analysing weather observational records and climate models dating back to 187
 
 The team examined the sequence of past El Niño and La Niña events of different types and identified clear patterns.
 
-University of Melbourne climate science lecturer Dr Mandy Freund said:> “using this data, we found Eastern Pacific El Niño and Central Pacific El Niño events will most likely be followed by neutral conditions the following year, with the probability of this occurring being 55.6% and 37% respectively.”<
+University of Melbourne climate science lecturer Dr Mandy Freund said:> “using this data, we found Eastern Pacific El Niño and Central Pacific El Niño events will most likely be followed by neutral conditions the following year, with the probability of this occurring being 55.6% and 37% respectively.”
 
->“However, the same doesn’t apply for La Niña events. Based on our findings, we estimate there’s a 40% chance of a Central Pacific El Niño event developing the year after an Eastern Pacific La Niña and a 27.8% chance of a consecutive Central Pacific La Niña developing two years in a row.”<
+>“However, the same doesn’t apply for La Niña events. Based on our findings, we estimate there’s a 40% chance of a Central Pacific El Niño event developing the year after an Eastern Pacific La Niña and a 27.8% chance of a consecutive Central Pacific La Niña developing two years in a row.”
 
 The Bureau of Meteorology is currently on La Niña watch, however researchers believe while ENSO-neutral conditions persist, there is only a small chance of a weak La Niña event developing during the last two months.
 
->“Australia has just come out of an Eastern Pacific El Niño, which began in September 2023. Based on the findings from our study, there is a 16.7% chance of a La Niña developing in the Pacific Ocean in 2024 and if so, it will peak in the Central Pacific,” Dr Freund said.>
+>“Australia has just come out of an Eastern Pacific El Niño, which began in September 2023. Based on the findings from our study, there is a 16.7% chance of a La Niña developing in the Pacific Ocean in 2024 and if so, it will peak in the Central Pacific,” Dr Freund said.
 
 Dr Freund said: “as climate change intensifies, the frequency, type and transitions of El Niño and La Niña events are expected to change in the future.”
 
->“The likelihood of having two consecutive neutral years is significantly decreasing. Based on the models we’ve looked at, we expect to see more Central Pacific La Niña events developing the year after an Eastern Pacific El Niño as predicted this coming season. Understanding ENSO transitions and their response to warming is essential to improve and adapt seasonal prediction systems,” Dr Freund said.>
+>“The likelihood of having two consecutive neutral years is significantly decreasing. Based on the models we’ve looked at, we expect to see more Central Pacific La Niña events developing the year after an Eastern Pacific El Niño as predicted this coming season. Understanding ENSO transitions and their response to warming is essential to improve and adapt seasonal prediction systems,” Dr Freund said.
 
 ---
