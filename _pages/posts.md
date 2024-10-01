@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /posts/
+permalink: /posts/Mandy_posts/
 title: posts
 nav: true
 nav_order: 1
