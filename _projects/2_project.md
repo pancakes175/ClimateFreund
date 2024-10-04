@@ -4,7 +4,7 @@ title: Ocean mesoscale turbulence shaping El Niño Southern Oscillation
 description: Research opportunities in the School of Geography, Earth and Atmospheric Sciences
 img: assets/img/Eddies_Designer.jpeg
 importance: 1
-category: work
+category: science
 related_publications: false
 ---
 
