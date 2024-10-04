@@ -2,7 +2,7 @@
 layout: page
 title: Probabilistic ENSO forecast using BoM forecast model in collaboration with CSIRO
 description: Research opportunities in the School of Geography, Earth and Atmospheric Sciences
-img: assets/img/12.jpg
+img: assets/img/ENSO_Designer.jpeg
 importance: 1
 category: work
 related_publications: false
@@ -14,11 +14,11 @@ El Niño-Southern Oscillation (ENSO), consisting of El Niño and La Niña events
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ENSO_Designer.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Probabilistic ENSO forecast, what can we learn. Image generated using copilot.
 </div>
 
 
