@@ -4,7 +4,7 @@ title: Imprint of ENSO diversity on global mean surface temperatures
 description: Research opportunities in the School of Geography, Earth and Atmospheric Sciences
 img: assets/img/Ocean_Designer.jpeg
 importance: 1
-category: work
+category: science
 related_publications: false
 ---
 
