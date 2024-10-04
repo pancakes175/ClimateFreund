@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Probabilistic ENSO forecast using BoM forecast model in collaboration with CSIRO
-description: with background image
+description: Research opportunities in the School of Geography, Earth and Atmospheric Sciences
 img: assets/img/12.jpg
 importance: 1
 category: work
