@@ -4,7 +4,7 @@ title: Probabilistic ENSO forecast using BoM forecast model in collaboration wit
 description: Research opportunities in the School of Geography, Earth and Atmospheric Sciences
 img: assets/img/ENSO_Designer.jpeg
 importance: 1
-category: work
+category: science
 related_publications: false
 ---
 
