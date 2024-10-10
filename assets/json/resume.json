@@ -6,6 +6,11 @@
     "url": "www.climatefreund.com",
     "summary": "Lecturer in Climate science who specialises in climate variability of the tropics and extra-tropics across seasonal to decadal time scales. My research interests include: the El Niño Southern Oscillation and its related teleconnections, regimes influencing droughts and precipitation anomalies, advanced statistical and machine learning methods and their dynamical links, implications and applications.",
     "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
       "city": "Melbourne",
       "countryCode": "Australia",
       "region": "Victoria"
@@ -20,9 +25,12 @@
   },
   "work": [
     {
-      "name": "School of Geography, Earth and Atmospheric Sciences, University of Melbourne",
-      "position": "Lecturer Climate Science",
-      "startDate": "2024-07-01",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
     }
   ],
   "volunteer": [
