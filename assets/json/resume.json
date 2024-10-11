@@ -35,15 +35,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Melbourne, Australia",
+      "location": "",
+      "url": "",
+      "area": "",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2014-04-01",
+      "endDate": "2018-07-01",
+      "score": "",
+      "courses": ["Australian rainfall and ENSO"]
     }
   ],
   "awards": [
