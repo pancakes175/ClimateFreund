@@ -31,6 +31,15 @@
       "endDate": "",
       "summary": "Lecturer in Climate science who specialises in climate variability of the tropics and extra-tropics across seasonal to decadal time scales. My research interests include: the El Niño Southern Oscillation and its related teleconnections, regimes influencing droughts and precipitation anomalies, advanced statistical and machine learning methods and their dynamical links, implications and applications.",
       "highlights": [""]
+    },
+    {
+      "name": "CSIRO",
+      "position": "CERC Research Fellow",
+      "url": "",
+      "startDate": "2019-02-01",
+      "endDate": "2024-06-30",
+      "summary": "Seasonal climate variability and implications for agriculture",
+      "highlights": [""]
     }
   ],
   "education": [
@@ -46,15 +55,26 @@
       "courses": ["Australian rainfall and ENSO"]
     },
     {
-      "institution": "University of Melbourne, Australia",
+      "institution": "Freie Universität Berlin, Germany",
       "location": "",
       "url": "",
       "area": "",
-      "studyType": "PhD",
-      "startDate": "2014-04-01",
-      "endDate": "2018-07-01",
+      "studyType": "Master of science",
+      "startDate": "2010-04-01",
+      "endDate": "2013-07-01",
       "score": "",
-      "courses": ["Australian rainfall and ENSO"]
+      "courses": [""]
+    },
+     {
+      "institution": "Freie Universität Berlin, Germany",
+      "location": "",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor of science",
+      "startDate": "2006-10-01",
+      "endDate": "2010-04-01",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
