@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:Lecturer in climate science @ <a href="https://findanexpert.unimelb.edu.au/profile/722384-mandy-freund">Uni Melb</a>
+subtitle: Lecturer in climate science @ <a href="https://findanexpert.unimelb.edu.au/profile/722384-mandy-freund">Uni Melb</a>
 
 profile:
   align: right
