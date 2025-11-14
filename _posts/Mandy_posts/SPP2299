@@ -1,0 +1,75 @@
+---
+layout: post
+title: Tropical climate variability Germany visit
+description: The sequence of ENSO events from one year to the next
+giscus_comments: false
+thumbnail: assets/img/Images_blog/ENSO_domino.png
+date: 2025-11-14
+featured: false
+
+# Optionally, you can add a table of contents to your post.
+# NOTES:
+#   - make sure that TOC names match the actual section names
+#     for hyperlinks within the post to work correctly.
+#   - we may want to automate TOC generation in the future using
+#     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
+toc:
+  - name: La Nina could be declared this summer
+    # if a section has subsections, you can add them as follows:
+    # subsections:
+    #   - name: Example Child Subsection 1
+    #   - name: Example Child Subsection 2
+  - name: Late prediction of ENSO events- harder to predict?
+  - name: More precise and earlier El Niño Southern Oscillation forecasts
+
+# Below is an example of injecting additional post-specific styles.
+# If you use this post as a template, delete this _styles block.
+_styles: >
+  .fake-img {
+    background: #bbb;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 12px;
+  }
+  .fake-img p {
+    font-family: monospace;
+    color: white;
+    text-align: left;
+    margin: 12px 0;
+    text-align: center;
+    font-size: 16px;
+  }
+---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/Domino_tiles_ENSO_Transitions.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    
+</div>
+---
+
+You can think about past ENSO events as a game of domino.  The chain of dominoes symbolises the sequence of ENSO events which gradually increases in length each year. While some tiles are blank representing neutral conditions or a “joker”, other tiles show El Niño and La Niña conditions. To play by the rules, only matching ends must touch each other. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include audio.liquid path="assets/audio/Freund et al 2024 summary.wav" controls=true %}
+    </div>
+</div>
+<div class="caption">
+       Listen to a podcast on ENSO transitions (NotebookLM) 
+</div>
+
+When we looked at the sequence of ENSO events or domino tiles during the observed period, we first did an inventory of tiles. We found some expected observations like tiles expressing a high likelihood of an La Niña event to follow an El Niño event. This tile, or transition as we call it, is one of the most common tiles in the games.  But what we also found was that some tiles are missing or simply don’t exist. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/Annual_workshop_CLEX_W21C_Poster.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Poster for the annual workshop of CLEX/W21C.
+</div>
+---
