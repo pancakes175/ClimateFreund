@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
+# Semester 1: Atmospheric processes and composition
 # Semester 2: Wonders of the weather 
 
 Wonders of the weather (Course Coordinator)
