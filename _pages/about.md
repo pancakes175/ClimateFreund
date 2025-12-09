@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <p>/ˈklaɪ.mɪt/ [ˈfrɛu̯nt]</p> <p>Lecturer in climate science @ <a href="https://findanexpert.unimelb.edu.au/profile/722384-mandy-freund">Uni Melb</a></p>
 
 profile:
   align: right

@@ -1,12 +1,12 @@
 ---
-layout: default
-permalink: /blog/
+layout: page
+permalink: /blog
 title: blog
 nav: true
 nav_order: 1
 pagination:
-  enabled: true
-  collection: posts
+  enabled: false
+  collection: posts/Mandy_posts/
   permalink: /page/:num/
   per_page: 5
   sort_field: date

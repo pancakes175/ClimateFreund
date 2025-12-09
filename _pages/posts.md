@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /posts/
-title: posts
+permalink: /post/
+title: post
 nav: true
 nav_order: 1
 pagination:
@@ -194,3 +194,5 @@ pagination:
 {% endif %}
 
 </div>
+	
+![image](https://github.com/user-attachments/assets/be930d85-aa65-4ae4-a986-e2332ececc3d)
