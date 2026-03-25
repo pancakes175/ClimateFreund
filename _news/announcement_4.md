@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2025-12-25 15:59:00-0400
-inline: true
-related_posts: false
+inline: false
+related_posts: true
 ---
 
  <a href="https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcc.70036">Our new review </a> article looking at El Niño Southern Oscialltion during the last millennium was published on Christmas day. We synthesise ENSO reconstructions from the last millennium based on various natural archives such as corals, tree rings and documentary records. A key takeaway: no single reconstruction tells the full story. Different archives, regions, seasons and indices emphasise different aspects of the system. 
