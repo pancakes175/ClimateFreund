@@ -4,7 +4,7 @@ title: Mega El Niño coming in 2026
 description: Can we predict an El Niño for 2026 now?
 giscus_comments: false
 thumbnail: assets/img/Images_blog/Copilot_20251022_140818.png
-date: 2025-11-14
+date: 2026-02-26
 featured: false
 images:
   compare: true
@@ -61,44 +61,15 @@ In the absence of a trusted authority, the public conversation around ENSO doesn
     
 </div>
 
+# When the Pacific Keeps Its Cards Close: The ENSO Predictability Barrier 
+
+The predictability of El Niño or its counterpart, La Niña, is particularly precarious when autumn sets in in the Southern Hemisphere. This is the well‑known predictability barrier, a stubborn feature of the climate system. During these months, the Pacific seems to hold its cards close, offering only weak signals and shifting patterns that refuse to settle.
+
+Subsurface heat, as we see now, may be building up, but without a clear atmospheric response it remains only one possible scenario. Likewise, changes in winds or pressure patterns may emerge, but they require support from the ocean before they can develop further. Until these components align and reinforce one another, the system remains in a transitional state, offering only limited insight into whether an El Niño or La Niña will emerge.
+
 <img-comparison-slider>
-  {% include figure.liquid path="assets/img/Images_blog/german_Autumn.png" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/Images_blog/german_Autumn_noir.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+  {% include figure.liquid path="assets/img/Images_blog/March_2017_forecast.png" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/Images_blog/March_2026.png" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
-# SPP2299 Highlights
-
-The SPP meeting in Bremen on tropical climate variability and coral reefs was incredible and packed with interesting people and talks. I can’t possibly easily summarise the incredible amount of research done in this area. But a few things stuck with me, and I am excited to so many things coming out soon. An example is how coral records can exaggerate past decadal variability compared to gridded SST datasets (Dolman & Laepple, 2025 [Dolman, A. M., & Laepple, T. (2025). Temperature variability on coral reefs versus Gridded SST – The long and the short of it. Geochemistry, Geophysics, Geosystems, 26, e2025GC012351. ]). The paper suggests that coral records reflect very localised temperature fluctuations, while gridded SST products provide a larger, averaged view of the ocean. The difference in variability is mainly attributed to this difference in spatial scale, rather than other potential influences on the temperature data. The study used in-situ temperature loggers on coral reefs to help isolate the effects of spatial scale from other non-climatic factors that can influence coral temperature reading. Another highlight was work on volcanic cooling and freshening in the Indian Ocean during the early 19th century by Hana Camelia Marum. Looking forward seeing this out.
-
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/Flug.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/Fruehstueck.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/Ummenhofer,Freund.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-
-
-After Bremen, I took the train to Hamburg for research visits at MPI and DKRZ. Traveling by train felt like a novelty after years in Australia. It’s such a nice way of traveling even though delays are part of the game, certainly for the Deutsche Bahn...
-
-Hamburg is a beautiful city and somewhat a hot spot for climate related research. With the Max Planck Institute of Meteorology and the Deutschen Klima Rechenzentrum certainly leading role in German and international research. I had great discussions focused on how we can utilise artificial intelligence in atmospheric science. While challenging, it seems to offer short cuts which usually require immense resources. For example, we are often interested to quantify the range of natural or intrinsic climate variability. How much does rainfall vary over the years? Some years are really wet, some very dry but most often we see average rainfall.  Often the observational records isn’t enough, a very dry year could be a very rare event that hasn’t been observed in our odd 80 years of reliable observations. Climate science often borrows climate simulations for those kinds of questions. Running a climate model once, gives you one realisation similar to our one and only Earth. But there are multiple pathways of alternative Earths possible which can provide us with a number of different possible realities that certain things in our climate system vary. Running climate simulations run over and over again with slightly different initial conditions can provide you with a range of variability but annoyingly it is computational very expensive. AI can help there creating large ensembles of climate simulations reasonable cheap as shown by Meuer et al 2025. (Latent Ensemble Generator (LatEnGen) -> Meuer, Johannes, et al. "Latent Diffusion and Spatio-Temporal Transformers Generate Large Ensemble Climate Simulations." IEEE Transactions on Artificial Intelligence (2025).
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/GraueSuppe.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/Pforte.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/Hamburg.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-
-Other great applications include the reconstructions of data sparse observational fields. Instrumental records only cover a fraction of Earth’s history—less than 30% of the surface had measurements before 1900. AI-based reconstructions have shown to be able to reconstruct these fields more accurately and can even help resolve uncertainties in for example early 19th century sea surface temperature trends (Addressing early 20th-century cold bias in ocean surface temperature observations (Sippel et al., 2024). Cutting edge AI can even be applied to past climate extremes like warm and cold days and nights (Plésiat et al., 2024) which is usually very hard. Observed extremes often suffer from spatial gaps and inaccuracies due to inadequate spatial extrapolation. AI can reconstruct past climate extremes of (warm and cold days and nights) and more e.g. TX90p and gridded extreme indices. Plésiat, É., Dunn, R.J.H., Donat, M.G. et al. Artificial intelligence reveals past climate extremes by reconstructing historical records. Nat Commun 15, 9191 (2024). https://doi.org/10.1038/s41467-024-53464-2. These AI techniques can even help to discover past volcanic eruptions. Linking specific events e.g. past volcanic eruptions with its origin via AI -> Meuer, Johannes & Timmreck, Claudia & Fang, Shih-Wei & Kadow, Christopher. (2024). Fingerprints of past volcanic eruptions can be detected in historical climate records using machine learning. Communications Earth & Environment. 5. 10.1038/s43247-024-01617-y. 
-
-Overall, this ties well in with ongoing work on ENSO diversity and transitions, where understanding how events evolve and shift between states is key for improving predictions. Using Markov chain approaches (Freund et al., 2024) highlight how ENSO behaviour has changed over time and how models project future transitions. Combining these statistical frameworks with AI-driven reconstructions could open new doors for exploring ENSO complexity in both past and future climates. Instrumental data, especially in the tropical Pacific, are imperfect and often insufficient for studying pre-industrial ENSO. Future work utilising these AI advances could shed new light on  long-term warming patterns and diverse ENSO events using AI-driven reconstructions. So there is plenty of scope for collaboration on topics like AI-based climate science, reconstructions. For now, it’s back home with lots of ideas and a renewed appreciation for how science, Germany, and a few golden leaves can make for a memorable journey.
-
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Images_blog/Laub.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Beautiful Autumn.
-</div>
 ---
