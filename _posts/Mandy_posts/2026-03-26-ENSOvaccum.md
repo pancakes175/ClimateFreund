@@ -54,11 +54,11 @@ In the absence of a trusted authority, the public conversation around ENSO doesn
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Images_blog/Laub.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/SuperElNinoHeadline.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Beautiful Autumn.
+    
 </div>
 
 <img-comparison-slider>
