@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tropical climate variability Germany visit
-description: The sequence of ENSO events from one year to the next
+title: Mega El Niño coming in 2026
+description: Can we predict an El Niño for 2026 now?
 giscus_comments: false
 thumbnail: assets/img/Images_blog/Copilot_20251022_140818.png
 date: 2025-11-14
@@ -43,16 +43,28 @@ _styles: >
     font-size: 16px;
   }
 ---
+# Spoiler alert, certainly not confidently. But why are do you hear loud rumors about El Niño conditions? 
+
+To some degree thanks to a broken system of public distrust in science. The large vacuum that was left behind late last year in terms of advocacy, education and decades informed experience in seasonal prediction of Australia’s most important climate driver: El Niño Southern Oscillation. 
+A vacuum that each undergraduate in atmospheric sciences will know, is soon to be filled by partial pressures of: 
+
+…opportunism, oversimplification, and loud voices unburdened by evidence. 
+
+In the absence of a trusted authority, the public conversation around ENSO doesn’t quieten; it shifts. Headlines move quickly to fill the space, often chasing attention long before the signs and science are ready to speak. Without clear guidance, the rush to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, experienced narrator.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/Laub.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Beautiful Autumn.
+</div>
+
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/Images_blog/german_Autumn.png" class="img-fluid rounded z-depth-1" slot="first" %}
   {% include figure.liquid path="assets/img/Images_blog/german_Autumn_noir.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
-
-# Science and autumn in Germany
-
-After many years, it was so nice to be back in Germany the first time again during Autumn. I forgot how beautiful and golden this season presents in Germany with the smell of freshly fallen leaves everywhere. Many childhood memories running through mountains of leaves and collecting chestnuts for the animals. Golden leaves, crips mornings and admittedly I could have skipped the time to wait for the low lying “graune Suppe” of clouds to disappear during the course of the day. But even those grey days add the cosy feeling you only get during German autumn. 
-
-My trip started in Bremen for the SPP2299 meeting—a DFG priority program on tropical climate variability and coral reefs. The meeting was held near a fantastic science museum called Universum Bremen. I was impressed by the hands-on experiments and the tight involvement and collaboration with German universities and research institutions which brings this science museum very close to cutting edge of research.
 
 # SPP2299 Highlights
 
