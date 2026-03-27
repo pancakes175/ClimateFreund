@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mega El Niño coming in 2026
+title: Is a mega El Niño coming in 2026?
 description: Can we predict an El Niño for 2026 now?
 giscus_comments: false
 thumbnail: assets/img/Images_blog/Copilot_20251022_140818.png
@@ -58,18 +58,19 @@ In the absence of a trusted authority, the public conversation around ENSO doesn
     </div>
 </div>
 <div class="caption">
-    
+    Headlines in the news
 </div>
 
 # When the Pacific Keeps Its Cards Close: The ENSO Predictability Barrier 
 
 The predictability of El Niño or its counterpart, La Niña, is particularly precarious when autumn sets in in the Southern Hemisphere. This is the well‑known predictability barrier, a stubborn feature of the climate system. During these months, the Pacific seems to hold its cards close, offering only weak signals and shifting patterns that refuse to settle.
 
-Subsurface heat, as we see now, may be building up, but without a clear atmospheric response it remains only one possible scenario. Likewise, changes in winds or pressure patterns may emerge, but they require support from the ocean before they can develop further. Until these components align and reinforce one another, the system remains in a transitional state, offering only limited insight into whether an El Niño or La Niña will emerge.
+ <a href="https://theconversation.com/australia-may-be-facing-another-la-nina-summer-weve-found-a-way-to-predict-them-earlier-to-help-us-prepare-239826"> Subsurface </a> heat, as we see now, may be building up, but without a clear atmospheric response it remains only one possible scenario. Likewise, changes in winds or pressure patterns may emerge, but they require support from the ocean before they can develop further. Until these components align and reinforce one another, the system remains in a transitional state, offering only limited insight into whether an El Niño or La Niña will emerge.
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/Images_blog/March_2017_forecast.png" class="img-fluid rounded z-depth-1" slot="first" %}
   {% include figure.liquid path="assets/img/Images_blog/March_2026.png" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
+
 
 ---
