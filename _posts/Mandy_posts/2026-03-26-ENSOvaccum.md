@@ -50,8 +50,8 @@ A vacuum that each undergraduate in atmospheric sciences will know, is soon to b
 
 …opportunism, oversimplification, and loud voices unburdened by evidence. 
 
-In the absence of a trusted authority, the public conversation around ENSO doesn’t quieten; it shifts. Headlines move quickly to fill the space, often chasing attention long before the signs and science are ready to speak. Without clear guidance, the rush to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, </a> experienced narrator.
-<a href="https://theconversation.com/bom-were-calling-it-the-2015-el-nino-is-here-41598"> 
+In the absence of a trusted authority, the public conversation around ENSO doesn’t quieten; it shifts. Headlines move quickly to fill the space, often chasing attention long before the signs and science are ready to speak. Without clear guidance, the rush to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, </b> experienced narrator.
+<b href="https://theconversation.com/bom-were-calling-it-the-2015-el-nino-is-here-41598"> 
 
 
 <div class="row mt-3">
@@ -79,7 +79,7 @@ Seasonal forecasts point to the possible onset of El Niño conditions in the c
     Australian seasonal forecast by the Bureau of Meteorology pointing towards El Niño conditions.
 </div>
 
- <a href="https://www.bom.gov.au/climate/enso/wrap-up/archive/20260317.archive.shtml#tabs=Pacific-Ocean&pacific=Sea-sub%E2%80%93surface"> Subsurface heat, as we see now </a>, may be building up, but without a clear atmospheric response it remains only one possible scenario. Likewise, changes in winds or pressure patterns may emerge, but they require support from the ocean before they can develop further. Until these components align and reinforce one another, the system remains in a transitional state, offering only limited insight into whether an El Niño or La Niña will emerge.
+ <c href="https://www.bom.gov.au/climate/enso/wrap-up/archive/20260317.archive.shtml#tabs=Pacific-Ocean&pacific=Sea-sub%E2%80%93surface"> Subsurface heat, as we see now </c>, may be building up, but without a clear atmospheric response it remains only one possible scenario. Likewise, changes in winds or pressure patterns may emerge, but they require support from the ocean before they can develop further. Until these components align and reinforce one another, the system remains in a transitional state, offering only limited insight into whether an El Niño or La Niña will emerge.
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/Images_blog/March_2017_forecast.png" class="img-fluid rounded z-depth-1" slot="first" %}
