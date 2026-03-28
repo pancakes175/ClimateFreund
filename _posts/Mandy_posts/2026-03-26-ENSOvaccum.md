@@ -72,7 +72,7 @@ Seasonal forecasts point to the possible onset of El Niño conditions in the c
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Images_blog/bom.png" class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/BOMNino.png" class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
     </div>
 </div>
 <div class="caption">
