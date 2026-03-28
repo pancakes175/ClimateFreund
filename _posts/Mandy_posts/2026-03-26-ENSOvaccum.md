@@ -3,7 +3,7 @@ layout: post
 title: Is a mega El Niño coming in 2026?
 description: Can we predict an El Niño for 2026 now?
 giscus_comments: false
-thumbnail: assets/img/Images_blog/Copilot_20251022_140818.png
+thumbnail: assets/img/Images_blog/Designer_MonsterNino.png
 date: 2026-02-26
 featured: false
 images:
