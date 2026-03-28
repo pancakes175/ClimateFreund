@@ -43,14 +43,16 @@ _styles: >
     font-size: 16px;
   }
 ---
-# Perhaps but certainly not for sure. But why are do you hear loud rumors about El Niño conditions? 
+# Perhaps but certainly not for sure. But why are do you hear such loud rumors about a mega El Niño? 
 <a href="https://theconversation.com/la-nina-back-this-summer-not-likely-and-unofficial-declarations-are-jumping-the-gun-246778"> 
 To some degree thanks to a broken system of public distrust in science. The large </a> vacuum that was left behind late last year in terms of advocacy, education and decades informed experience in seasonal prediction of Australia’s most important climate driver: El Niño Southern Oscillation. 
 A vacuum that each undergraduate in atmospheric sciences will know, is soon to be filled by partial pressures of: 
 
 …opportunism, oversimplification, and loud voices unburdened by evidence. 
 
-In the absence of a trusted authority, the public conversation around ENSO doesn’t quieten; it shifts. Headlines move quickly to fill the space, often chasing attention long before the signs and science are ready to speak. Without clear guidance, the rush to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, experienced narrator.
+In the absence of a trusted authority, the public conversation around ENSO doesn’t quieten; it shifts. Headlines move quickly to fill the space, often chasing attention long before the signs and science are ready to speak. Without clear guidance, the rush to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, </a> experienced narrator.
+<a href="https://theconversation.com/bom-were-calling-it-the-2015-el-nino-is-here-41598"> 
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
