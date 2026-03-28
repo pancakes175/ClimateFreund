@@ -52,8 +52,7 @@ A vacuum that any undergraduate in atmospheric sciences will know is quickly fil
 
 …opportunism, oversimplification, and loud voices unburdened by evidence.
 
-In the absence of a trusted authority, the public conversation around ENSO does not quieten—it shifts. Headlines rush in to fill the space, often chasing attention long before the signs and the science are ready to speak. Without clear guidance, the urge to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, experienced narrator  
-([see here](https://theconversation.com/bom-were-calling-it-the-2015-el-nino-is-here-41598)).
+In the absence of a trusted authority, the public conversation around ENSO does not quieten—it shifts. Headlines rush in to fill the space, often chasing attention long before the signs and the science are ready to speak. Without clear guidance, the urge to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, [experienced narrator](https://theconversation.com/bom-were-calling-it-the-2015-el-nino-is-here-41598).
 
 
 <div class="row mt-3">
