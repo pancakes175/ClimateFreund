@@ -67,6 +67,18 @@ In the absence of a trusted authority, the public conversation around ENSO doesn
 
 The predictability of El Niño or its counterpart, La Niña, is particularly precarious when autumn sets in in the Southern Hemisphere. This is the well‑known predictability barrier, a stubborn feature of the climate system. During these months, the Pacific seems to hold its cards close, offering only weak signals and shifting patterns that refuse to settle.
 
+Admittedly, there are currently growing prospects for an El Niño event to develop. Early signs of subsurface heat stored in the Pacific suggest that one necessary ingredient for El Niño may already be in place.
+Seasonal forecasts point to the possible onset of El Niño conditions in the coming months, following almost two years of weak La Niña conditions. The latest Niño 3.4 index predictions, which represent central Pacific sea‑surface temperature anomalies, show that most Australian ensemble members favor El Niño‑like warming.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/SuperElNinoHeadline.jpg" class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
+    </div>
+</div>
+<div class="caption">
+    Australian seasonal forecast by the Bureau of Meteorology pointing towards El Niño conditions.
+</div>
+
  <a href="https://www.bom.gov.au/climate/enso/wrap-up/archive/20260317.archive.shtml#tabs=Pacific-Ocean&pacific=Sea-sub%E2%80%93surface"> Subsurface heat, as we see now </a>, may be building up, but without a clear atmospheric response it remains only one possible scenario. Likewise, changes in winds or pressure patterns may emerge, but they require support from the ocean before they can develop further. Until these components align and reinforce one another, the system remains in a transitional state, offering only limited insight into whether an El Niño or La Niña will emerge.
 
 <img-comparison-slider>
@@ -74,5 +86,6 @@ The predictability of El Niño or its counterpart, La Niña, is particularly
   {% include figure.liquid path="assets/img/Images_blog/March_2026.png" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
+The two years in the slider Figure above show the prediction of El Niño events as of now (March 2026) and a past example (March 2017). Similar to now 
 
 ---
