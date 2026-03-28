@@ -63,7 +63,7 @@ In the absence of a trusted authority, the public conversation around ENSO does 
     </div>
 </div>
 <div class="caption">
-    Headlines in the news
+    Headlines in the news like "A 'globally catastrophic' super El Nino could form by spring"
 </div>
 
 ## When the Pacific Keeps Its Cards Close: The ENSO Predictability Barrier 
