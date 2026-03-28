@@ -17,13 +17,13 @@ images:
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
-  - name: La Nina could be declared this summer
+  - name: El Niño could be declared this summer
     # if a section has subsections, you can add them as follows:
     # subsections:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
   - name: Late prediction of ENSO events- harder to predict?
-  - name: More precise and earlier El Niño Southern Oscillation forecasts
+
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
@@ -43,9 +43,9 @@ _styles: >
     font-size: 16px;
   }
 ---
-# Spoiler alert, certainly not confidently. But why are do you hear loud rumors about El Niño conditions? 
-
-To some degree thanks to a broken system of public distrust in science. The large vacuum that was left behind late last year in terms of advocacy, education and decades informed experience in seasonal prediction of Australia’s most important climate driver: El Niño Southern Oscillation. 
+# Perhaps but certainly not for sure. But why are do you hear loud rumors about El Niño conditions? 
+<a href="https://theconversation.com/la-nina-back-this-summer-not-likely-and-unofficial-declarations-are-jumping-the-gun-246778"> 
+To some degree thanks to a broken system of public distrust in science. The large </a> vacuum that was left behind late last year in terms of advocacy, education and decades informed experience in seasonal prediction of Australia’s most important climate driver: El Niño Southern Oscillation. 
 A vacuum that each undergraduate in atmospheric sciences will know, is soon to be filled by partial pressures of: 
 
 …opportunism, oversimplification, and loud voices unburdened by evidence. 
