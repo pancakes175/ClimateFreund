@@ -45,9 +45,8 @@ _styles: >
 ---
 ## Perhaps—but certainly not for sure. Why, then, do we hear such loud rumours about a “mega” El Niño?
 
-To some degree, this is thanks to a  
-[broken system of public trust in science](https://theconversation.com/la-nina-back-this-summer-not-likely-and-unofficial-declarations-are-jumping-the-gun-246778).  
-A vacuum was left behind late last year in terms of advocacy, education, and decades of informed experience in seasonal prediction of Australia’s most important climate driver: the El Niño–Southern Oscillation.
+To some degree, this is thanks to a
+[broken system of public trust in science](https://theconversation.com/la-nina-back-this-summer-not-likely-and-unofficial-declarations-are-jumping-the-gun-246778). A vacuum was left behind early last year in terms of advocacy, education, and decades of informed experience in seasonal prediction of Australia’s most important climate driver: the El Niño–Southern Oscillation.
 
 A vacuum that any undergraduate in atmospheric sciences will know is quickly filled by the partial pressures of:
 
