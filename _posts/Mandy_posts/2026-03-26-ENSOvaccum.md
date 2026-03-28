@@ -43,15 +43,18 @@ _styles: >
     font-size: 16px;
   }
 ---
-## Perhaps but certainly not for sure. But why are do you hear such loud rumors about a mega El Niño? 
-<a href="https://theconversation.com/la-nina-back-this-summer-not-likely-and-unofficial-declarations-are-jumping-the-gun-246778"> 
-To some degree thanks to a broken system of public distrust in science. The large </a> vacuum that was left behind late last year in terms of advocacy, education and decades informed experience in seasonal prediction of Australia’s most important climate driver: El Niño Southern Oscillation. 
-A vacuum that each undergraduate in atmospheric sciences will know, is soon to be filled by partial pressures of: 
+## Perhaps—but certainly not for sure. Why, then, do we hear such loud rumours about a “mega” El Niño?
 
-…opportunism, oversimplification, and loud voices unburdened by evidence. 
+To some degree, this is thanks to a  
+[broken system of public trust in science](https://theconversation.com/la-nina-back-this-summer-not-likely-and-unofficial-declarations-are-jumping-the-gun-246778).  
+A vacuum was left behind late last year in terms of advocacy, education, and decades of informed experience in seasonal prediction of Australia’s most important climate driver: the El Niño–Southern Oscillation.
 
-In the absence of a trusted authority, the public conversation around ENSO doesn’t quieten; it shifts. Headlines move quickly to fill the space, often chasing attention long before the signs and science are ready to speak. Without clear guidance, the rush to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, </a> experienced narrator.
-<a href="https://theconversation.com/bom-were-calling-it-the-2015-el-nino-is-here-41598"> 
+A vacuum that any undergraduate in atmospheric sciences will know is quickly filled by the partial pressures of:
+
+…opportunism, oversimplification, and loud voices unburdened by evidence.
+
+In the absence of a trusted authority, the public conversation around ENSO does not quieten—it shifts. Headlines rush in to fill the space, often chasing attention long before the signs and the science are ready to speak. Without clear guidance, the urge to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, experienced narrator  
+([see here](https://theconversation.com/bom-were-calling-it-the-2015-el-nino-is-here-41598)).
 
 
 <div class="row mt-3">
