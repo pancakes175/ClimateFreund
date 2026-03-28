@@ -81,7 +81,7 @@ Seasonal forecasts point to the possible onset of El Niño conditions in the c
 
 
 <a href="https://www.bom.gov.au/climate/enso/wrap-up/archive/20260317.archive.shtml#tabs=Pacific-Ocean&pacific=Sea-sub%E2%80%93surface">
-  Subsurface heat
+Subsurface heat
 </a>, as we see now, may be building up, but without a clear atmospheric response it remains only one possible scenario.
 Likewise, changes in winds or pressure patterns may emerge, but they require support from the ocean before they can develop further. Until these components align and reinforce one another, the system remains in a transitional state, offering only limited insight into whether an El Niño or La Niña will emerge.
 
@@ -91,6 +91,9 @@ Likewise, changes in winds or pressure patterns may emerge, but they require sup
   {% include figure.liquid path="assets/img/Images_blog/March_2026.png" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
-The two years in the slider Figure above show the prediction of El Niño events as of now (March 2026) and a past example (March 2017). Similar to now 
+When we compare the current year (March 2026) with a past forecast initialized in March 2017, it becomes clear how predictions issued during autumn can evolve in very different directions. In 2017, the majority of forecasts (red lines) projected El Niño conditions for the 2017/18 season. However, the actual observations (dotted line) showed only a brief, weak positive excursion before returning to neutral conditions for the remainder of the year. Despite widespread model agreement, no El Niño ultimately developed.
+
+Comparing the 2017 case with the current outlook for 2026 reveals some similar tendencies. As of March 2026, all ensemble members of the ECMWF forecast model point toward positive Niño 3.4 values. These projected anomalies are notably stronger than those seen in 2017, which may help explain the increased confidence surrounding the possibility of a “mega” El Niño—despite the persistent constraints imposed by the autumn predictability barrier.
+
 
 ---
