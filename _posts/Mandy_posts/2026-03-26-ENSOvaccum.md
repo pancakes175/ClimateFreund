@@ -43,15 +43,15 @@ _styles: >
     font-size: 16px;
   }
 ---
-# Perhaps but certainly not for sure. But why are do you hear such loud rumors about a mega El Niño? 
+## Perhaps but certainly not for sure. But why are do you hear such loud rumors about a mega El Niño? 
 <a href="https://theconversation.com/la-nina-back-this-summer-not-likely-and-unofficial-declarations-are-jumping-the-gun-246778"> 
 To some degree thanks to a broken system of public distrust in science. The large </a> vacuum that was left behind late last year in terms of advocacy, education and decades informed experience in seasonal prediction of Australia’s most important climate driver: El Niño Southern Oscillation. 
 A vacuum that each undergraduate in atmospheric sciences will know, is soon to be filled by partial pressures of: 
 
 …opportunism, oversimplification, and loud voices unburdened by evidence. 
 
-In the absence of a trusted authority, the public conversation around ENSO doesn’t quieten; it shifts. Headlines move quickly to fill the space, often chasing attention long before the signs and science are ready to speak. Without clear guidance, the rush to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, </b> experienced narrator.
-<b href="https://theconversation.com/bom-were-calling-it-the-2015-el-nino-is-here-41598"> 
+In the absence of a trusted authority, the public conversation around ENSO doesn’t quieten; it shifts. Headlines move quickly to fill the space, often chasing attention long before the signs and science are ready to speak. Without clear guidance, the rush to proclaim or predict becomes a race of its own, leaving many to piece together a story that once had a steady, </a> experienced narrator.
+<a href="https://theconversation.com/bom-were-calling-it-the-2015-el-nino-is-here-41598"> 
 
 
 <div class="row mt-3">
@@ -63,7 +63,7 @@ In the absence of a trusted authority, the public conversation around ENSO doesn
     Headlines in the news
 </div>
 
-# When the Pacific Keeps Its Cards Close: The ENSO Predictability Barrier 
+## When the Pacific Keeps Its Cards Close: The ENSO Predictability Barrier 
 
 The predictability of El Niño or its counterpart, La Niña, is particularly precarious when autumn sets in in the Southern Hemisphere. This is the well‑known predictability barrier, a stubborn feature of the climate system. During these months, the Pacific seems to hold its cards close, offering only weak signals and shifting patterns that refuse to settle.
 
@@ -79,7 +79,12 @@ Seasonal forecasts point to the possible onset of El Niño conditions in the c
     Australian seasonal forecast by the Bureau of Meteorology pointing towards El Niño conditions.
 </div>
 
- <c href="https://www.bom.gov.au/climate/enso/wrap-up/archive/20260317.archive.shtml#tabs=Pacific-Ocean&pacific=Sea-sub%E2%80%93surface"> Subsurface heat, as we see now </c>, may be building up, but without a clear atmospheric response it remains only one possible scenario. Likewise, changes in winds or pressure patterns may emerge, but they require support from the ocean before they can develop further. Until these components align and reinforce one another, the system remains in a transitional state, offering only limited insight into whether an El Niño or La Niña will emerge.
+
+<a href="https://www.bom.gov.au/climate/enso/wrap-up/archive/20260317.archive.shtml#tabs=Pacific-Ocean&pacific=Sea-sub%E2%80%93surface">
+  Subsurface heat
+</a>, as we see now, may be building up, but without a clear atmospheric response it remains only one possible scenario.
+Likewise, changes in winds or pressure patterns may emerge, but they require support from the ocean before they can develop further. Until these components align and reinforce one another, the system remains in a transitional state, offering only limited insight into whether an El Niño or La Niña will emerge.
+
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/Images_blog/March_2017_forecast.png" class="img-fluid rounded z-depth-1" slot="first" %}
