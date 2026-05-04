@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A dull zero crossing
+title: A dull zero crossing & what it means for Australia
 description: El Niño for 2026 ?
 giscus_comments: false
 thumbnail: assets/img/Images_blog/Designer_MonsterNino.png
@@ -43,8 +43,6 @@ _styles: >
     font-size: 16px;
   }
 ---
-## A dull crossing
-
 This week the tropical Pacific has seemingly crossed a dull threshold. Not very exciting or significant, but it scares a lot of people around the globe. 
 
 For the first time in the past two years, the relative (meaning warming signals have been accounted for) Niño3.4 index has crossed the zero line and enters positive anomalies. This is not historical, happens a lot of times, sometimes randomly, but given this years forecast, many people hold their breath. 
