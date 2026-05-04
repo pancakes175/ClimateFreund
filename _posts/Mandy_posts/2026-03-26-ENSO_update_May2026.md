@@ -1,4 +1,3 @@
-<img width="468" height="303" alt="image" src="https://github.com/user-attachments/assets/241032bd-4011-46d4-a3c1-d042d454bbee" />---
 layout: post
 title: A dull zero crossing
 description: El Niño for 2026 ?
