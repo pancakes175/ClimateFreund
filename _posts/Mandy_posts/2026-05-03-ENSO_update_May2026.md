@@ -58,6 +58,8 @@ You can look at the full SST pattern or, in a simplified way, at how the differe
 
 ## Eastern Pacific El Niño 
 
+The Eastern Pacific El Niño is the classic version — the one most people mean when they say "El Niño." The trade winds weaken, upwelling off South America slows, and the eastern Pacific warms. As warming increases, convection follows the heat from unusually warm sea-surface temperatures, bringing large shifts in circulation patterns such as the Walker circulation.
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
