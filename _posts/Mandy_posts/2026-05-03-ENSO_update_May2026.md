@@ -49,7 +49,7 @@ This week the tropical Pacific has seemingly crossed a dull threshold. Not very 
 
 For the first time in the past two years, the relative (meaning warming signals have been accounted for) Niño3.4 index has crossed the zero line and enters positive anomalies. This is not historical, happens a lot of times, sometimes randomly, but given this years forecast, many people hold their breath. 
 
-We are still not quite in the window of certainty, but more indizien come together. This past week, the Nino3.4 index changed sites from negative to slightly positive: 0.23! Doesn’t sound like much and fair enough, we’re far off official requirements of 0.8 and other key requirements to be met. But hovering to the Nino2 region shows, something is on the way. The tropical Paicifc is warming up, starting in the East (Nino1 & Nino2) and slowly reaching areas along the dateline (Nino3.4). 
+We are still not quite in the window of certainty, but more indizien come together. This past week, the Niño3.4 index changed sites from negative to slightly positive: 0.23! Doesn’t sound like much and fair enough, we’re far off official requirements of 0.8 and other key requirements to be met. But hovering to the Niño2 region shows, something is on the way. The tropical Paicifc is warming up, starting in the East (Niño1 & Niño2) and slowly reaching areas along the dateline (Niño3.4). 
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/Images_blog/rnino_3.4_1.Mai.png" class="img-fluid rounded z-depth-1" slot="first" %}
