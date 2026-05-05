@@ -43,11 +43,11 @@ _styles: >
     font-size: 16px;
   }
 ---
-This week the tropical Pacific has seemingly crossed a dull threshold. Not very exciting or significant, but it scares a lot of people around the globe. 
+This week the tropical Pacific has seemingly crossed a dull threshold. Not very exciting or significant, but it scares people around the globe. 
 
-For the first time in the past two years, the relative (meaning warming signals have been accounted for) Niño3.4 index has crossed the zero line and enters positive anomalies. This is not historical, happens a lot of times, sometimes randomly, but given this years forecast, many people hold their breath. 
-
-We are still not quite in the window of certainty, but more indizien come together. This past week, the Niño3.4 index changed sites from negative to slightly positive: 0.23! Doesn’t sound like much and fair enough, we’re far off official requirements of 0.8 and other key requirements to be met. But hovering to the Niño2 region shows, something is on the way. The tropical Paicifc is warming up, starting in the East (Niño1 & Niño2) and slowly reaching areas along the dateline (Niño3.4). 
+For the first time in the past two years, the relative (meaning long term warming signals have been accounted for) Niño 3.4 index has crossed the zero line and entered positive anomalies. This is not historic. It happens quite often, sometimes even randomly. But given this year’s forecasts, many people are holding their breath.
+We are still not quite in the window of certainty, but more indications are beginning to line up. This past week, the Niño 3.4 index shifted from negative to slightly positive: +0.23 °C. That doesn’t sound like much — and fair enough. We are still far from the official threshold of +0.8 °C and other key requirements remain unmet.
+But looking toward the Niño 1 and Niño 2 regions shows that something may be unfolding. The tropical Pacific is warming, beginning in the east and slowly extending westward toward the dateline. The signal is weak, incomplete, and far from decisive but it is moving in a familiar direction.
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/Images_blog/rnino_3.4_1.Mai.png" class="img-fluid rounded z-depth-1" slot="first" %}
