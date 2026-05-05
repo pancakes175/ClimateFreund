@@ -68,8 +68,8 @@ The Eastern Pacific El Niño is the classic version — the one most people mean
 </div>
 <div class="caption">
     Schematic of a canonical eastern Pacific El Niño 
-(<a href="https://www.climatefreund.com/assets/pdf/WIREsClimateChange2025FreundElNinoSouthernOscillationReconstructionsDuringtheLastMillennium.pdf">
-  <em>Freund et al.</em>, 2025
+((<a href="https://www.climatefreund.com/assets/pdf/WIREsClimateChange2025FreundElNinoSouthernOscillationReconstructionsDuringtheLastMillennium.pdf">
+  <em>Freund et al.</em>, 2025)
 </a>)
 
 </div>
