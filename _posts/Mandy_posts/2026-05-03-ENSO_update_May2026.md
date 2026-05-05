@@ -97,7 +97,9 @@ The answer depends on whether you see the glass as half empty — or simply real
     </div>
 </div>
 <div class="caption">
- Rainfall anomalies over Australia during El Niño events during the onset phase (April–September; left panel) and mature phase (October–March; right panel). Stippling indicates significant rainfall anomalies.  Small panels show significant rainfall anomalies for three‑month rolling seasons throughout the composite lifecycle of EP El Niño events (Freund et al. 2021).
+ Rainfall anomalies over Australia during El Niño events during the onset phase (April–September; left panel) and mature phase (October–March; right panel). Stippling indicates significant rainfall anomalies.  Small panels show significant rainfall anomalies for three‑month rolling seasons throughout the composite lifecycle of EP El Niño events (<a href="https://www.climatefreund.com/assets/pdf/Freund_et_al_2021_GRL_Central_Pacific_El_Nino_as_a_Precursor_to_Summer_Drought%E2%80%90Breaking_Rainfall.pdf">
+  <em>Freund et al.</em>, 2021)
+</a>.
 </div>
 
 ## Even a big El Niño doesn’t mean big dry
@@ -110,7 +112,9 @@ The important point here — and we are far from the first to show this — is t
     </div>
 </div>
 <div class="caption">
-  Correlation coefficients of Australian rainfall anomalies with El Niño strength (Freund et al. 2021). 
+  Correlation coefficients of Australian rainfall anomalies with El Niño strength (<a href="https://www.climatefreund.com/assets/pdf/Freund_et_al_2021_GRL_Central_Pacific_El_Nino_as_a_Precursor_to_Summer_Drought%E2%80%90Breaking_Rainfall.pdf">
+  <em>Freund et al.</em>, 2021)
+</a>.
 </div>
 
 ## Big El Niños make good headlines — but poor rainfall forecasts
