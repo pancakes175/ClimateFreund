@@ -83,4 +83,13 @@ Now, with an increasing likelihood of an El Niño calling out loud, being mega o
 
 ## Do you need to be scared in Australia?
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/EPElNinoImpacts_Gridded_Precip_Composite_mm_EP_Warm_Cool_Season_and_seasonaly_c.pdf" class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
+    </div>
+</div>
+<div class="caption">
+ Rainfall anomalies over Australia during El Niño events during the onset phase (April–September; left panel) and mature phase (October–March; right panel). Stippling indicates significant rainfall anomalies.  Small panels show significant rainfall anomalies for three‑month rolling seasons throughout the composite lifecycle of EP El Niño events.
+</div>
+
 
