@@ -107,6 +107,7 @@ The important point here — and we are far from the first to show this — is t
   Correlation coefficients of Australian rainfall anomalies with El Niño strength (Freund et al. 2021). 
 </div>
 
+## Big El Niños make good headlines — but poor rainfall forecasts
 As you can see, things are not as straightforward as they might seem — at least for Australia. In other parts of the world, there are regions where El Niño does consistently shift rainfall risk and where caution is warranted. Even in those cases, however, fully coupled seasonal prediction models provide a far better estimate of expected rainfall because they account for the full complexity of the climate system. They move beyond simple narratives and take into account interacting oceanic, atmospheric, and land processes — not just the doom‑laden tale of a “mega” El Niño.
 
 
