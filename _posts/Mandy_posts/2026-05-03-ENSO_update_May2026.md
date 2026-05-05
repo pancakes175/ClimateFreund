@@ -67,7 +67,7 @@ The Eastern Pacific El Niño is the classic version — the one most people mean
     </div>
 </div>
 <div class="caption">
-    Schematic of a canonical eastern Pacific El Niño (Freund et al.(2026))
+    Schematic of a canonical eastern Pacific El Niño  <a href="https://www.climatefreund.com/assets/pdf/WIREsClimateChange2025FreundElNinoSouthernOscillationReconstructionsDuringtheLastMillennium.pdf">Freund et al.(2026)</a>()
 </div>
 
 Now, with an increasing likelihood of an El Niño calling out loud, being mega or monster El Niño, where does that come from? Very clearly, from a striking glimpse at the latest seasonal forecast from the ECMWF. You don’t have to study atmospheric or climate science to understand why this looks huge:
