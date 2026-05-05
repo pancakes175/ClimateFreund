@@ -81,15 +81,32 @@ Now, with an increasing likelihood of an El Niño calling out loud, being mega o
 
 </div>
 
-## Do you need to be scared in Australia?
+## Do you need to be worried in Australia?
+
+The answer depends on whether you see the glass as half empty — or simply realistic. On average, El Niño events tend to bring drier than usual conditions, particularly in eastern regions. There’s nothing especially dramatic about this overall signal, but parts of eastern Australia do often end up drier than normal. Looking at rainfall through rolling shows regions where deficits become statistically significant. But then again, what does “normal” really mean in Australia?
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Images_blog/EPElNinoImpacts_Gridded_Precip_Composite_mm_EP_Warm_Cool_Season_and_seasonaly_c.pdf" class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/EPElNinoImpacts_Gridded_Precip_Composite_mm_EP_Warm_Cool_Season_and_seasonaly_c.png" class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
     </div>
 </div>
 <div class="caption">
- Rainfall anomalies over Australia during El Niño events during the onset phase (April–September; left panel) and mature phase (October–March; right panel). Stippling indicates significant rainfall anomalies.  Small panels show significant rainfall anomalies for three‑month rolling seasons throughout the composite lifecycle of EP El Niño events.
+ Rainfall anomalies over Australia during El Niño events during the onset phase (April–September; left panel) and mature phase (October–March; right panel). Stippling indicates significant rainfall anomalies.  Small panels show significant rainfall anomalies for three‑month rolling seasons throughout the composite lifecycle of EP El Niño events (Freund et al. 2021).
 </div>
+
+## Even a big El Niño doesn’t mean big dry
+
+The important point here — and we are far from the first to show this — is that regardless of how strong or weak an El Niño is, we have very little idea what that actually means for rainfall in Australia. A “mega” El Niño does not automatically translate to “mega” dry conditions. Even strong El Niño events can be associated with fairly unremarkable, near‑average rainfall. Looking at past events shows no clear relationship between El Niño strength and Australian rainfall, meaning it offers little regional predictive power. El Niño strength and Australian rainfall are not well correlated and should not be used interchangeably.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/Fig3_IIntensity2020_correlation_gridded_Precip_Composite_EP_CP_Siglevel.png" class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
+    </div>
+</div>
+<div class="caption">
+  Correlation coefficients of Australian rainfall anomalies with El Niño strength (Freund et al. 2021). 
+</div>
+
+As you can see, things are not as straightforward as they might seem — at least for Australia. In other parts of the world, there are regions where El Niño does consistently shift rainfall risk and where caution is warranted. Even in those cases, however, fully coupled seasonal prediction models provide a far better estimate of expected rainfall because they account for the full complexity of the climate system. They move beyond simple narratives and take into account interacting oceanic, atmospheric, and land processes — not just the doom‑laden tale of a “mega” El Niño.
 
 
