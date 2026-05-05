@@ -1,0 +1,32 @@
+<div class="share-buttons mt-5 mb-3">
+  <hr>
+  <p class="text-muted" style="font-size: 0.9rem;">Share this post:</p>
+  
+  <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+     target="_blank" class="btn btn-sm z-depth-0" style="border: 1px solid #ddd;">
+     <i class="fab fa-twitter"></i> X
+  </a>
+  
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+     target="_blank" class="btn btn-sm z-depth-0" style="border: 1px solid #ddd;">
+     <i class="fab fa-facebook-f"></i> Facebook
+  </a>
+  
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+     target="_blank" class="btn btn-sm z-depth-0" style="border: 1px solid #ddd;">
+     <i class="fab fa-linkedin-in"></i> LinkedIn
+  </a>
+  
+  <button onclick="copyLink()" class="btn btn-sm z-depth-0" style="border: 1px solid #ddd;">
+    <i class="fas fa-link"></i> Copy Link
+  </button>
+</div>
+
+<script>
+function copyLink() {
+  const url = window.location.href;
+  navigator.clipboard.writeText(url).then(() => {
+    alert("Link copied to clipboard!");
+  });
+}
+</script>
