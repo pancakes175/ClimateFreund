@@ -46,7 +46,9 @@ _styles: >
 This week the tropical Pacific has seemingly crossed a dull threshold. Not very exciting or significant, but it scares people around the globe. 
 
 For the first time in the past two years, the relative (meaning long term warming signals have been accounted for) Niño 3.4 index has crossed the zero line and entered positive anomalies. This is not historic. It happens quite often, sometimes even randomly. But given this year’s forecasts, many people are holding their breath.
+
 We are still not quite in the window of certainty, but more indications are beginning to line up. This past week, the Niño 3.4 index shifted from negative to slightly positive: +0.23 °C. That doesn’t sound like much — and fair enough. We are still far from the official threshold of +0.8 °C and other key requirements remain unmet.
+
 But looking toward the Niño 1 and Niño 2 regions shows that something may be unfolding. The tropical Pacific is warming, beginning in the east and slowly extending westward toward the dateline. The signal is weak, incomplete, and far from decisive but it is moving in a familiar direction.
 
 <img-comparison-slider>
@@ -68,9 +70,9 @@ The Eastern Pacific El Niño is the classic version — the one most people mean
 </div>
 <div class="caption">
     Schematic of a canonical eastern Pacific El Niño 
-((<a href="https://www.climatefreund.com/assets/pdf/WIREsClimateChange2025FreundElNinoSouthernOscillationReconstructionsDuringtheLastMillennium.pdf">
+(<a href="https://www.climatefreund.com/assets/pdf/WIREsClimateChange2025FreundElNinoSouthernOscillationReconstructionsDuringtheLastMillennium.pdf">
   <em>Freund et al.</em>, 2025)
-</a>)
+</a>
 
 </div>
 
