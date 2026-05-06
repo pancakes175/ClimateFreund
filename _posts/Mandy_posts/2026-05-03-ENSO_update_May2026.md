@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A dull zero crossing & what it means for Australia
+title: A dull crossing & what it means for Australia
 description: El Niño for 2026 ?
 giscus_comments: false
 thumbnail: assets/img/Images_blog/Monster_ElNino_DroughtRain.png
