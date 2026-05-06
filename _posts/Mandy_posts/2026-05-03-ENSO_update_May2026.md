@@ -47,16 +47,14 @@ This week the tropical Pacific has seemingly crossed a dull threshold. Not very 
 
 For the first time in the past two years, the relative (meaning long term warming signals have been accounted for) Niño 3.4 index has crossed the zero line and entered positive anomalies. This is not historic. It happens quite often, sometimes even randomly. But given this year’s forecasts, many people are holding their breath.
 
-We are still not quite in the window of certainty, but more indications are beginning to line up. This past week, the Niño 3.4 index shifted from negative to slightly positive: +0.23 °C. That doesn’t sound like much — and fair enough. We are still far from the official threshold of +0.8 °C and other key requirements remain unmet.
-
-But looking toward the Niño 1 and Niño 2 regions shows that something may be unfolding. The tropical Pacific is warming, beginning in the east and slowly extending westward toward the dateline. The signal is weak, incomplete, and far from decisive but it is moving in a familiar direction.
-
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/Images_blog/rnino_3.4_1.Mai.png" class="img-fluid rounded z-depth-1" slot="first" %}
   {% include figure.liquid path="assets/img/Images_blog/rnino_2_1.Mai.png" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
-You can look at the full SST pattern or, in a simplified way, at how the different Niño indices behave relative to each other. A lot of the time, when the eastern indices (Niño 1+2) and Niño 3.4 move in sync, the system is leaning toward an Eastern Pacific El Niño.
+We are still not quite in the window of certainty, but more indications are beginning to line up. This past week, the Niño 3.4 index shifted from negative to slightly positive: +0.23 °C. That doesn’t sound like much — and fair enough. We are still far from the official threshold of +0.8 °C and other key requirements remain unmet.
+
+Looking to the Niño 1+2 region suggests something may be unfolding: the tropical Pacific is warming from the east and slowly extending westward toward the dateline, a incomplete signal but one moving in a familiar direction. When the eastern indices (Niño 1+2) and Niño 3.4 begin to move together like this, it often hints that the system may be tilting toward an Eastern Pacific El Niño.
 
 ## Eastern Pacific El Niño 
 
@@ -104,7 +102,7 @@ The answer depends on whether you see the glass as half empty — or simply real
 
 ## Even a big El Niño doesn’t mean big dry
 
-The important point here — and we are far from the first to show this — is that regardless of how strong or weak an El Niño is, we have very little idea what that actually means for rainfall in Australia. A “mega” El Niño does not automatically translate to “mega” dry conditions. Even strong El Niño events can be associated with fairly unremarkable, near‑average rainfall. Looking at past events shows no clear relationship between El Niño strength and Australian rainfall, meaning it offers little regional predictive power. El Niño strength and Australian rainfall are not well correlated and should not be used interchangeably.
+The important point here, and we are far from the first to show this, is that regardless of how strong or weak an El Niño is, we have very little idea what that actually means for rainfall in Australia. A “mega” El Niño does not automatically translate to “mega” dry conditions. Even strong El Niño events can be associated with fairly unremarkable, near‑average rainfall. Looking at past events shows no clear relationship between El Niño strength and Australian rainfall. El Niño strength and Australian rainfall are not well correlated and should not be used interchangeably.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -118,6 +116,6 @@ The important point here — and we are far from the first to show this — is t
 </div>
 
 ## Big El Niños make good headlines — but poor rainfall forecasts
-As you can see, things are not as straightforward as they might seem — at least for Australia. In other parts of the world, there are regions where El Niño does consistently shift rainfall risk and where caution is warranted. Even in those cases, however, fully coupled seasonal prediction models provide a far better estimate of expected rainfall because they account for the full complexity of the climate system. They move beyond simple narratives and take into account interacting oceanic, atmospheric, and land processes — not just the doom‑laden tale of a “mega” El Niño.
+As you can see, things are not as straightforward as they might seem — at least for Australia. In other parts of the world, there are regions where El Niño does consistently shift rainfall risk. Even in those cases, however, fully coupled seasonal prediction models provide a far better estimate of expected rainfall because they account for the full complexity of the climate system. They move beyond simple narratives and take into account interacting oceanic, atmospheric, and land processes — not just the doom‑laden tale of a “mega” El Niño.
 
 
