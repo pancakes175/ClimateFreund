@@ -80,7 +80,7 @@ Now, with an increasing likelihood of an El Niño calling out loud, being mega o
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Images_blog/ecmwf_forecast_1.May.png" class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
+        {% include figure.liquid loading="eager" path="assets/img/Images_blog/ecmwf_forecast_1May.png" class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
     </div>
 </div>
 <div class="caption">
