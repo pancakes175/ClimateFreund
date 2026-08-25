@@ -15,6 +15,7 @@ nav_order: 8
     --text: #1a1a1a;
     --wrong: #d64545;
     --muted: #5a5a5a;
+    --card-bg: #f0f2f1;
   }
   * { box-sizing: border-box; }
   #enso-quiz {
@@ -23,11 +24,12 @@ nav_order: 8
     padding: 28px;
     max-width: 900px;
     width: 100%;
+    color: var(--text);
   }
-  h1 { font-size: 1.4rem; margin: 0 0 4px 0; }
+  h1 { font-size: 1.4rem; margin: 0 0 4px 0; color: var(--text); }
   .subtitle { color: var(--muted); font-size: 0.9rem; margin-bottom: 18px; }
-  #progress { opacity: 0.7; font-size: 0.85rem; margin-bottom: 8px; }
-  .question { font-size: 1.15rem; margin-bottom: 4px; }
+  #progress { opacity: 0.8; font-size: 0.85rem; margin-bottom: 8px; color: var(--muted); }
+  .question { font-size: 1.15rem; margin-bottom: 4px; color: var(--text); }
   .hint { color: var(--muted); font-size: 0.85rem; margin-bottom: 16px; }
   .maps {
     display: grid;
@@ -36,11 +38,11 @@ nav_order: 8
     margin-bottom: 18px;
   }
   .map-card {
-    border: 2px solid #2a4c58;
+    border: 2px solid #d5d9d7;
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
-    background: #0c1e24;
+    background: var(--card-bg);
     transition: border-color 0.15s, transform 0.15s;
   }
   .map-card:hover { border-color: var(--accent); transform: translateY(-2px); }
@@ -53,14 +55,15 @@ nav_order: 8
     font-weight: bold;
     padding: 6px;
     font-size: 1rem;
-    background: #0c1e24;
+    background: var(--card-bg);
+    color: var(--text);
   }
   #submit, #next, #restart {
     padding: 10px 18px;
     border-radius: 8px;
     border: none;
     background: var(--accent);
-    color: #05201a;
+    color: #ffffff;
     font-weight: bold;
     cursor: pointer;
     font-size: 0.95rem;
@@ -70,7 +73,7 @@ nav_order: 8
   #feedback { margin-top: 14px; font-size: 0.95rem; min-height: 1.2em; }
   #feedback.correct-text { color: var(--accent); }
   #feedback.wrong-text { color: var(--wrong); }
-  #result { font-size: 1.15rem; }
+  #result { font-size: 1.15rem; color: var(--text); }
 
 #enso-quiz-wrap {
   display: flex;
