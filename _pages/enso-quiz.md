@@ -9,12 +9,12 @@ nav_order: 8
 <style>
 
   :root {
-    --bg: #0f2027;
-    --panel: #16323d;
-    --accent: #4fd1a5;
-    --text: #eafff4;
-    --wrong: #e2665c;
-    --muted: #7fa6a0;
+    --bg: #f5f5f5;
+    --panel: #ffffff;
+    --accent: #2a9d78;
+    --text: #1a1a1a;
+    --wrong: #d64545;
+    --muted: #5a5a5a;
   }
   * { box-sizing: border-box; }
   #enso-quiz {
