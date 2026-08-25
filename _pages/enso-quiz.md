@@ -2,7 +2,7 @@
 layout: page
 title: ENSO quiz
 permalink: /enso-quiz/
-nav: true
+nav: false
 nav_order: 8
 ---
 
