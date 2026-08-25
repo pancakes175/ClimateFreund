@@ -1,6 +1,6 @@
 ---
 layout: page
-title: enso quiz
+title: ENSO quiz
 permalink: /enso-quiz/
 nav: true
 nav_order: 8
