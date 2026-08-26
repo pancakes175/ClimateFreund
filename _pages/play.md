@@ -127,11 +127,6 @@ description: A collection of small interactive games and quizzes.
     <p>Guess El Niño and La Niña years from Australian rainfall maps.</p>
     <span class="status">Play now</span>
   </div>
-  <div class="game-tile" id="tile-soon">
-    <h3>More coming soon</h3>
-    <p>Additional climate games will appear here.</p>
-    <span class="status soon">Coming soon</span>
-  </div>
 </div>
 
 <div id="enso-quiz-wrap" class="visible"><div id="enso-quiz"></div></div>
