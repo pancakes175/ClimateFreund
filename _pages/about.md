@@ -25,7 +25,18 @@ I am a Lecturer in Climate science who specialises in climate variability of the
 **Integrating Evidence Across Time Scales**                                          
 My passion is to combine multiple lines of evidence (past proxy archives, observational data and future model simulation data) to gain new insights into current and future changes in climate. A strong seasonal focus of my work provides unprecedented opportunity to study climate-scale climate processes by contextualizing key climatic hazards such as droughts, rainfall extremes and recent trends and their dynamical links. Climate processes are evaluated by using a combination of observational data, seasonal forecasts such as ACCESS-S2, CMIP models, and statistical techniques to understand the current state of the climate, predict future changes, and assess the reliability of forecasts. 
 
-
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe src="https://www.youtube.com/embed/odL0eEVhYKI" style="position: absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe src="https://www.youtube.com/embed/GeWYSO3E-cU" style="position: absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
 
 [comment]: <> (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
