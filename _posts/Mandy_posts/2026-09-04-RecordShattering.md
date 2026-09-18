@@ -5,6 +5,8 @@ date: 2026-09-04 08:00:00
 description: "The current El Niño is developing unusually early and unusually strong — here's what that means for global weather."
 tags: enso el-nino climate extreme-weather
 categories: 2026
+thumbnail: https://images.theconversation.com/files/757953/original/file-20260904-60-pddfyj.jpg?ixlib=rb-4.1.1&rect=0%2C311%2C5960%2C3352&q=45&auto=format&w=754&fit=clip
+featured: false
 giscus_comments: true
 related_posts: false
 ---
