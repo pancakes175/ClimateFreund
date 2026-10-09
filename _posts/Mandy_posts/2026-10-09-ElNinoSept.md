@@ -45,8 +45,8 @@ To get to Mungo National Park, it's about a 7-hour drive from Melbourne through 
 I expected vast landscapes, sand and dirt roads, but what we mostly saw surprised me a lot: flourishing agricultural land with grains, including wheat and canola.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/IMG_6928.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/IMG_7138_2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/IMG_6928.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Images_blog/IMG_7069.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 <div class="caption">
