@@ -3,7 +3,7 @@ layout: post
 title: Lush greens in an El Niño year?
 description: A trip to Mungo National Park and what it taught me about El Niño and agriculture
 giscus_comments: false
-thumbnail: assets/img/Images_blog/Mungo.jpg
+thumbnail: assets/img/Images_blog/ThisIs_ElNino.jpg
 date: 2026-10-09
 featured: false
 images:
