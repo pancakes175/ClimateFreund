@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lush greens in an El Niño year?
-description: A trip to Mungo National Park and what it taught me about El Niño and agriculture
+description: A trip to Mungo National Park and what it taught me about El Niño and vegetation
 giscus_comments: false
 thumbnail: assets/img/Images_blog/ThisIs_ElNino.jpg
 date: 2026-10-09
@@ -77,6 +77,6 @@ The answer lies in the months prior to spring. Large parts of South Australia, n
     Rainfall deciles for March–August 2026 (Bureau of Meteorology).
 </div>
 
-In essence, it gave me a very different view of El Niño events and their impact on agricultural production. There is more to the story than the tendency of a drier than usual spring. Conditions prior to an El Niño event and the timing of rain seem much more informative than the simple doom-laden news of El Niño that people associate with drought conditions. In Australia, El Niño events and poor harvests are not as tightly linked as often assumed. A strong El Niño does not automatically mean low rainfall or a bad harvest. Fortunately, the strength of an El Niño event is only loosely linked to the weather you can expect in Australia. And similarly, conditions beyond a single event play a much more essential role.
+In essence, it gave me a very different view of El Niño events and their impact on vegetation and agricultural production. There is more to the story than the tendency of a drier than usual spring. Conditions prior to an El Niño event and the timing of rain seem much more informative than the simple doom-laden news of El Niño that people associate with drought conditions. In Australia, El Niño events and poor harvests are not as tightly linked as often assumed. A strong El Niño does not automatically mean low rainfall or a bad harvest. Fortunately, the strength of an El Niño event is only loosely linked to the weather you can expect in Australia. And similarly, conditions beyond a single event play a much bigger role.
 
 ---
